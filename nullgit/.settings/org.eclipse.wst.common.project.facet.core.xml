@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <faceted-project>
   <runtime name="Apache Tomcat v8.5"/>
+<<<<<<< HEAD
   <fixed facet="jst.web"/>
   <fixed facet="wst.jsdt.web"/>
+=======
+  <fixed facet="wst.jsdt.web"/>
+  <fixed facet="jst.web"/>
+>>>>>>> branch 'jaeuk' of https://github.com/sungjin0649/SemiNullTeam.git
   <fixed facet="java"/>
   <installed facet="java" version="1.8"/>
   <installed facet="jst.web" version="3.1"/>
